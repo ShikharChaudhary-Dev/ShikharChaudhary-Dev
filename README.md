@@ -32,9 +32,10 @@
 </p>
 
 
-
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
     <div>
+        <img align="right" alt="Coding" width="400"
+    src="https://www.boardinfinity.com/blog/content/images/2023/01/Frontend-vs-Backend.png">
         <h3 align="left">Languages and Tools:</h3>
         <p align="left"  >
             <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img

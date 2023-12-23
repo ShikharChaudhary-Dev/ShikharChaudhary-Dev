@@ -13,8 +13,8 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at
-[https://shikharchaudhary-dev.github.io/Portfolio/Portfolio.html](https://shikharchaudhary-dev.github.io/Portfolio/Portfolio.html)
+- 👨‍💻 Personal Portfolio
+[Portfolio](https://shikharchaudhary-dev.github.io/Portfolio/Portfolio.html)
 
 - 💬 Ask me about **BackEnd and FrontEnd Development**
 
@@ -22,10 +22,12 @@
 
 - ⚡ Fun fact **Debugging: Removing the needles from the haystack in the digital world.**
 
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1TlPosgavpXWUNdL56q3Lkyb_Mx57SVH1/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/in/shikharchaudhary2311" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            src="https://cdn-icons-png.flaticon.com/256/174/174857.png"
             alt="in/shikharchaudhary2311" height="30" width="40" /></a>
 </p>
 

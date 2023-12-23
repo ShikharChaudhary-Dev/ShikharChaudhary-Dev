@@ -31,9 +31,13 @@
             alt="in/shikharchaudhary2311" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
+
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+    <div>
+        <h3 align="left">Languages and Tools:</h3>
+        <p align="left"  >
+            <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png"
             alt="aws" width="40" height="40" /> </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
@@ -45,7 +49,11 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png"
             alt="css3" width="40" height="40" /> </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
+        </p>
+    </div>
+    <div>
+        <p align="left">
+             <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
             src="https://i.pinimg.com/originals/5c/bb/a7/5cbba74b40ec0c0ce77b3db3ec1a5e05.png" alt="docker" width="40"
             height="40" /> </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
@@ -54,7 +62,12 @@
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
         href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"
-            alt="html5" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
+            alt="html5" width="40" height="40" /> </a> 
+        </p>
+    </div>
+    <div>
+        <p align="left">
+           <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/java.svg"
             alt="java" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank" rel="noreferrer"> <img
@@ -63,7 +76,12 @@
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40"
             height="40" /> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40"
-            height="40" /> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img
+            height="40" /> </a> 
+        </p>
+    </div>
+    <div>
+        <p align="left">
+           <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40"
             height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1200px-Database-mysql.svg.png"
@@ -72,7 +90,12 @@
             alt="nodejs" width="40" height="40" /> </a> <a href="https://www.postgresql.org" target="_blank"
         rel="noreferrer"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png"
-            alt="postgresql" width="40" height="40" /> </a> <a href="https://postman.com" target="_blank"
+            alt="postgresql" width="40" height="40" /> </a>
+        </p>
+    </div>
+    <div>
+        <p align="left">
+            <a href="https://postman.com" target="_blank"
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"
             width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
             src="https://reactnative.dev/img/header_logo.svg" alt="react" width="40" height="40" /> </a> <a
@@ -80,7 +103,12 @@
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBoZojKyF3vEZChNnBCJc4nFZgzG1ciCl-4pUNB0sqAmvpZu1lFT6UiS95VHAcKOPo_SE&usqp=CAU"
             alt="sass" width="40" height="40" /> </a> <a href="https://www.selenium.dev" target="_blank"
         rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png"
-            alt="selenium" width="40" height="40" /> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer">
+            alt="selenium" width="40" height="40" /> </a> 
+        </p>
+    </div>
+    <div>
+        <p align="left">
+           <a href="https://spring.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
     </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"
@@ -88,7 +116,11 @@
         rel="noreferrer"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"
             alt="vuejs" width="40" height="40" /> </a>
-</p>
+        </p>
+    </div>
+</div>
+
+
 
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=shikharchaudhary-dev&show_icons=true&locale=en&layout=compact"

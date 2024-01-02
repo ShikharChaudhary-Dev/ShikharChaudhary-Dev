@@ -1,8 +1,4 @@
-<div style="width: 100%; height: 50%; align="center"">
-  <a href="https://shikharchaudhary-dev.io">
-    <img src="https://camo.githubusercontent.com/d4fa02abc45ed240d9766f5588f7e387676e43a9d8a4e6b8c458560987cca846/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966" alt="MasterHead" style="width: 80%; height: 50%;">
-  </a>
-</div>
+[![MasterHead](https://camo.githubusercontent.com/2e23eadb7dca33af997b793f89ca195fb1be47a4e4f278b5c028ae102c8d8c33/68747470733a2f2f7777772e61726b61736f667477617265732e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f30312f6865616465725f62616e6e65722d322e6a7067)](https://shikharchaudhary-dev.io)
 
 <h1 align="center">Hi, I'm Shikhar</h1>
 <h3 align="center">A passionate Software Developer from India</h3>

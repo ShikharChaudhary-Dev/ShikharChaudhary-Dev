@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 Personal Portfolio
-[Portfolio](https://shikharchaudhary-dev.github.io/Portfolio/Portfolio.html)
+[Portfolio](https://shikhar-portfolio-2025.vercel.app/)
 
 - 💬 Ask me about **BackEnd and FrontEnd Development**
 
@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **Debugging: Removing the needles from the haystack in the digital world.**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1TlPosgavpXWUNdL56q3Lkyb_Mx57SVH1/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1TxBRpO7l0df55ua-ixKND5w3dLFqyKeP/view?pli=1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
